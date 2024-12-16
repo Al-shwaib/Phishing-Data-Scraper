@@ -6,7 +6,7 @@ from datetime import datetime
 
 class PhishScraper:
     def __init__(self):
-        self.base_url = "https://data.phishtank.com/data/online-valid.json"
+        self.base_url = "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt"
         self.data = []
 
     def fetch_phishing_data(self):
