@@ -25,10 +25,10 @@ This project is a scraper for collecting phishing data from trusted sources like
 ## Notes
 - Ensure to respect the terms of use of the websites you are scraping.
 
-## ماهية البيانات
+## What is the data?
 The data collected includes verified phishing URLs. Please be cautious not to access these URLs, as they may be harmful or contain malicious content. It is recommended to use the data only for research and training purposes.
 
-## إخلاء المسؤولية
+## Disclaimer
 This project aims to provide tools for collecting data from trusted sources. The developers of this project do not assume any responsibility for damages resulting from the use of the data or links collected. Users should take necessary precautions when handling the data.
 
 ## License
