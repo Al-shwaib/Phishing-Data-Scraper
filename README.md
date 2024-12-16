@@ -1,7 +1,7 @@
 # Phishing Data Scraper
 
 ## Project Description
-This project is a scraper for collecting phishing data from trusted sources like OpenPhish. It aims to assist cybersecurity researchers in analyzing phishing attacks. The targeted site provides verified phishing URLs that can be used for research and training purposes.
+This project is a scraper for collecting phishing data from trusted sources like githubusercontent. It aims to assist cybersecurity researchers in analyzing phishing attacks. The targeted site provides verified phishing URLs that can be used for research and training purposes.
 
 ## Project Features
 - Collect phishing data from trusted sources.
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 # سكرابر بيانات التصيد
 
 ## وصف المشروع
-هذا المشروع هو سكرابر لجمع بيانات التصيد الاحتيالي من مصادر موثوقة مثل OpenPhish. يهدف إلى مساعدة الباحثين في الأمن السيبراني على تحليل هجمات التصيد. الموقع المستهدف يوفر روابط تصيد موثوقة يمكن استخدامها لأغراض البحث والتدريب.
+هذا المشروع هو سكرابر لجمع بيانات التصيد الاحتيالي من مصادر موثوقة مثل githubusercontent. يهدف إلى مساعدة الباحثين في الأمن السيبراني على تحليل هجمات التصيد. الموقع المستهدف يوفر روابط تصيد موثوقة يمكن استخدامها لأغراض البحث والتدريب.
 
 ## ميزات المشروع
 - جمع بيانات التصيد من مصادر موثوقة.
