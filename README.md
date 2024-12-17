@@ -22,9 +22,6 @@ This project is a scraper for collecting phishing data from trusted sources like
    ```
 2. The data will be collected and saved in `phishing_data.csv`.
 
-## Notes
-- Ensure to respect the terms of use of the websites you are scraping.
-
 ## What is the data?
 The data collected includes verified phishing URLs. Please be cautious not to access these URLs, as they may be harmful or contain malicious content. It is recommended to use the data only for research and training purposes.
 
@@ -59,9 +56,6 @@ This project is licensed under the MIT License.
    python phish_scraper.py
    ```
 2. سيتم جمع البيانات وحفظها في ملف `phishing_data.csv`.
-
-## ملاحظات
-- تأكد من احترام شروط الاستخدام للمواقع التي تقوم بعمل سكراب لها.
 
 ## ماهية البيانات
 البيانات التي يتم جمعها تتضمن روابط تصيد موثوقة. يجب الانتباه إلى عدم الولوج إلى هذه الروابط، حيث أنها قد تكون ضارة أو تحتوي على محتوى خبيث. يُنصح باستخدام البيانات فقط لأغراض البحث والتدريب.
